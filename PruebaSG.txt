@@ -1,1 +1,2 @@
 Prueba de GitHub publica
+texto agregado despues de clonar repositorio.
